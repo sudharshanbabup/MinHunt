@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tutoring data logs
+data/
+*.csv
+
+# Experiment outputs
+results/
+*.json
+*.log
+*.tex
+
+# System files
+.DS_Store
